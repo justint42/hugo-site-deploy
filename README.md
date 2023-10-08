@@ -1,2 +1,2 @@
 # hugo-site-deploy
-This is a smple Hugo website for testing
+This is a sample Hugo website for practice.
